@@ -1,0 +1,9 @@
+{
+  "id": "auto-quotes-replacer",
+  "name": "Auto Quotes Replacer",
+  "version": "1.0.5",
+  "minAppVersion": "0.15.0",
+  "description": "Автоматически заменяет << и >> на кавычки-ёлочки",
+  "author": "ChetsCMD",
+  "isDesktopOnly": true
+}
